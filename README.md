@@ -17,4 +17,4 @@ presentes são otimizadas para realizar a busca do que procuramos e no final ger
 A partir destas bibliotecas podemos fazer funcionar o código.
 
 Devemos baixar os novos arquivos através do link a seguir:
-<a href="https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos/receitadata/arrecadacao/arrecadacao-por-estado"><strong>Acesse a fonte de dados»</strong></a>
+<a href="https://www.gov.br/receitafederal/pt-br/acesso-a-informacao/dados-abertos/receitadata/arrecadacao/arrecadacao-por-estado"><strong>Acesse a fonte de dados</strong></a>
