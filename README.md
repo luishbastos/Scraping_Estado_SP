@@ -1,4 +1,4 @@
-# Scraping_Estado_SP
+# Web Scraping em Python da Arrecadação do Estado de São Paulo
 Código de Web Scrapping para extrair arquivos ODS, fornecido pelo Governo Brasileiro, coletando os dados referentes ao estado de São Paulo
 
 O código foi criado para estudos relacionados a Scrapping em Python, por conta dos diferentes estilos de arquivos, o código foi adaptado para procurar o período (data referente ao dado),
